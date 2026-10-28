@@ -89,5 +89,5 @@
 ---
 
 <div align="center">
-  <sub>Built with 💙 by <b>Anh Phuong Doan</b> · Powered by the <b>Tokyo Night</b> aesthetic</sub>
+  <sub>Built with 💙 by <b>Anh Phuong Doan</b></sub>
 </div>
